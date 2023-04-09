@@ -1,0 +1,348 @@
+,SegmentDescription,Answer,Count
+20,University of Delaware,Facebook,1
+21,University of Delaware,Instagram,1
+24,University of Delaware,None,1
+25,University of Pennsylvania,Facebook,1
+26,University of Pennsylvania,Instagram,1
+29,University of Pennsylvania,None,2
+31,Students of New York,Instagram,21
+32,Students of New York,Snapchat,1
+33,Students of New York,Twitter,5
+34,Students of New York,None,18
+36,University of Central Arkansas,Instagram,1
+40,Northeastern University,Facebook,1
+44,Northeastern University,None,1
+49,West Virginia University ,None,2
+50,Northern Arizona University,Facebook,1
+55,"University of California, Santa Barbara",Facebook,1
+64,University of Memphis,None,1
+69,Auburn University,None,4
+70,Randolph-Macon College,Facebook,1
+71,Randolph-Macon College,Instagram,2
+73,Randolph-Macon College,Twitter,1
+74,Randolph-Macon College,None,3
+77,Wisconsin HS,Snapchat,1
+81,Penn State University,Instagram,1
+82,Penn State University,Snapchat,1
+84,Penn State University,None,1
+85,Case Western Reserve University,Facebook,1
+89,Case Western Reserve University,None,3
+94,Rutgers University,None,1
+95,University of Oregon,Facebook,1
+97,University of Oregon,Snapchat,2
+99,University of Oregon,None,1
+100,University of Toronto,Facebook,1
+101,University of Toronto,Instagram,1
+104,University of Toronto,None,1
+109,State University of New York Geneso,None,1
+114,Carthage College,None,1
+119,University of South Carolina,None,4
+120,Wesleyan University,Facebook,1
+129,Memorial University of Newfoundland,None,1
+133,University of Kansas,Twitter,1
+136,University of Redlands,Instagram,2
+140,University of Arkansas,Facebook,1
+141,University of Arkansas,Instagram,10
+143,University of Arkansas,Twitter,3
+144,University of Arkansas,None,5
+149,Richland High School,None,1
+150,Wake Forest University,Facebook,1
+156,Iowa State University,Instagram,1
+159,Iowa State University,None,2
+161,Florida Gulf Coast University,Instagram,1
+165,University of Central Missouri,Facebook,1
+169,University of Central Missouri,None,2
+171,California State University Long Beach,Instagram,1
+176,Chaparral High School,Instagram,1
+180,Colorado Academy,Facebook,1
+184,Colorado Academy,None,1
+189,United States Naval Academy,None,1
+193,University of Wisconsin-Whitewater,Twitter,1
+195,Lock Haven University,Facebook,1
+201,Kalamazoo College,Instagram,1
+205,Stanford University,Facebook,2
+206,Stanford University,Instagram,2
+209,Stanford University,None,5
+210,Vanderbilt University,Facebook,15
+211,Vanderbilt University,Instagram,11
+212,Vanderbilt University,Snapchat,1
+214,Vanderbilt University,None,13
+215,Chapman University,Facebook,2
+216,Chapman University,Instagram,6
+219,Chapman University,None,2
+220,Missouri State University,Facebook,3
+221,Missouri State University,Instagram,10
+223,Missouri State University,Twitter,2
+224,Missouri State University,None,10
+225,Emory University,Facebook,15
+226,Emory University,Instagram,14
+227,Emory University,Snapchat,2
+228,Emory University,Twitter,1
+229,Emory University,None,15
+230,University of Richmond,Facebook,3
+234,University of Richmond,None,2
+239,Medford High School,None,1
+240,University of British Columbia,Facebook,1
+244,University of British Columbia,None,2
+246,Colby College,Instagram,2
+250,Bates College,Facebook,8
+251,Bates College,Instagram,18
+253,Bates College,Twitter,4
+254,Bates College,None,17
+255,"Westport, CT",Facebook,1
+260,Whitman College,Facebook,5
+261,Whitman College,Instagram,5
+262,Whitman College,Snapchat,3
+264,Whitman College,None,9
+266,Thompson Rivers University ,Instagram,1
+269,Thompson Rivers University ,None,1
+274,University of Central Florida,None,2
+276,University of Montana ,Instagram,2
+284,University of Nebraska,None,1
+286,Whatsgoodly University,Instagram,1
+290,Tufts University,Facebook,4
+291,Tufts University,Instagram,3
+294,Tufts University,None,3
+296,Texas Tech University,Instagram,1
+304,Kansas State University,None,1
+309,University of Notre Dame,None,1
+311,University of Georgia,Instagram,2
+319,Ohio University,None,1
+321,Washington State University,Instagram,2
+329,Binghamtom University,None,1
+331,George Washington University,Instagram,1
+336,University of Alabama,Instagram,1
+337,University of Alabama,Snapchat,1
+339,University of Alabama,None,3
+341,University of Florida,Instagram,1
+343,University of Florida,Twitter,1
+344,University of Florida,None,1
+349,The College of New Jersey,None,1
+351,Florida State University,Instagram,1
+355,Santa Clara University,Facebook,1
+359,Santa Clara University,None,2
+360,Appalachian State University,Facebook,5
+361,Appalachian State University,Instagram,9
+363,Appalachian State University,Twitter,3
+364,Appalachian State University,None,12
+368,Arbroath Academy,Twitter,1
+374,Arkansas Tech University ,None,1
+377,University of Rhode Island,Snapchat,1
+379,University of Rhode Island,None,1
+380,Virginia Tech,Facebook,1
+381,Virginia Tech,Instagram,2
+385,Syracuse University,Facebook,1
+389,Syracuse University,None,2
+391,Cypress Creek High School,Instagram,1
+399,Union High School,None,1
+400,College of William and Mary,Facebook,25
+401,College of William and Mary,Instagram,25
+402,College of William and Mary,Snapchat,5
+403,College of William and Mary,Twitter,2
+404,College of William and Mary,None,30
+409,Ohio State University,None,4
+412,Gulf Breeze High School,Snapchat,1
+419,Cal Poly San Luis Obispo,None,2
+423,Oklahoma State University ,Twitter,1
+425,University of Texas,Facebook,13
+426,University of Texas,Instagram,11
+427,University of Texas,Snapchat,1
+429,University of Texas,None,13
+434,Hampden-Sydney College ,None,2
+435,University of Arizona,Facebook,8
+436,University of Arizona,Instagram,27
+437,University of Arizona,Snapchat,2
+438,University of Arizona,Twitter,5
+439,University of Arizona,None,9
+441,Coventry University,Instagram,2
+447,Rochester Institute of Technology,Snapchat,2
+449,Rochester Institute of Technology,None,1
+454,Colgate University,None,2
+455,Northwestern University,Facebook,30
+456,Northwestern University,Instagram,47
+457,Northwestern University,Snapchat,4
+458,Northwestern University,Twitter,4
+459,Northwestern University,None,30
+463,Saginaw Valley State University,Twitter,1
+465,University of Michigan,Facebook,12
+466,University of Michigan,Instagram,16
+467,University of Michigan,Snapchat,1
+468,University of Michigan,Twitter,2
+469,University of Michigan,None,21
+471,Boise State University,Instagram,1
+475,Cornell University,Facebook,35
+476,Cornell University,Instagram,44
+477,Cornell University,Snapchat,4
+478,Cornell University,Twitter,1
+479,Cornell University,None,38
+480,University of New Hampshire,Facebook,3
+481,University of New Hampshire,Instagram,2
+483,University of New Hampshire,Twitter,1
+484,University of New Hampshire,None,1
+489,UMass Dartmouth,None,2
+494,High Point University,None,2
+496,University of Minnesota,Instagram,2
+499,University of Minnesota,None,2
+500,Claremont McKenna College,Facebook,14
+501,Claremont McKenna College,Instagram,32
+502,Claremont McKenna College,Snapchat,1
+503,Claremont McKenna College,Twitter,5
+504,Claremont McKenna College,None,23
+506,University of Central Oklahoma,Instagram,2
+510,Illinois State,Facebook,3
+511,Illinois State,Instagram,1
+512,Illinois State,Snapchat,1
+514,Illinois State,None,7
+516,University of Guelph,Instagram,1
+521,Queens University,Instagram,1
+524,Queens University,None,1
+525,University of Colorado Boulder,Facebook,1
+529,University of Colorado Boulder,None,2
+530,University of Virginia,Facebook,64
+531,University of Virginia,Instagram,75
+532,University of Virginia,Snapchat,10
+533,University of Virginia,Twitter,12
+534,University of Virginia,None,95
+535,Villanova University,Facebook,2
+544,Centre College,None,2
+545,Johns Hopkins University,Facebook,3
+546,Johns Hopkins University,Instagram,1
+548,Johns Hopkins University,Twitter,1
+549,Johns Hopkins University,None,7
+550,University of Wisconsin-Madison,Facebook,26
+551,University of Wisconsin-Madison,Instagram,35
+552,University of Wisconsin-Madison,Snapchat,1
+553,University of Wisconsin-Madison,Twitter,7
+554,University of Wisconsin-Madison,None,34
+555,Dartmouth College,Facebook,7
+556,Dartmouth College,Instagram,1
+558,Dartmouth College,Twitter,1
+559,Dartmouth College,None,8
+560,Purdue University,Facebook,1
+561,Purdue University,Instagram,2
+563,Purdue University,Twitter,1
+564,Purdue University,None,13
+565,San Diego State University,Facebook,24
+566,San Diego State University,Instagram,84
+567,San Diego State University,Snapchat,4
+568,San Diego State University,Twitter,13
+569,San Diego State University,None,44
+570,Michigan State University,Facebook,1
+574,Michigan State University,None,1
+575,Butler University,Facebook,9
+576,Butler University,Instagram,13
+578,Butler University,Twitter,5
+579,Butler University,None,6
+580,Indiana University,Facebook,18
+581,Indiana University,Instagram,24
+582,Indiana University,Snapchat,4
+583,Indiana University,Twitter,10
+584,Indiana University,None,24
+585,"University of California, Berkeley",Facebook,12
+586,"University of California, Berkeley",Instagram,11
+587,"University of California, Berkeley",Snapchat,1
+588,"University of California, Berkeley",Twitter,1
+589,"University of California, Berkeley",None,15
+590,University of Missouri,Facebook,4
+591,University of Missouri,Instagram,3
+593,University of Missouri,Twitter,4
+594,University of Missouri,None,13
+595,Texas Christian University,Facebook,5
+596,Texas Christian University,Instagram,8
+597,Texas Christian University,Snapchat,1
+598,Texas Christian University,Twitter,3
+599,Texas Christian University,None,6
+600,Truman State University,Facebook,18
+601,Truman State University,Instagram,15
+602,Truman State University,Snapchat,1
+603,Truman State University,Twitter,2
+604,Truman State University,None,14
+605,University of Illinois,Facebook,18
+606,University of Illinois,Instagram,24
+607,University of Illinois,Snapchat,3
+608,University of Illinois,Twitter,7
+609,University of Illinois,None,34
+610,University of Washington,Facebook,12
+611,University of Washington,Instagram,19
+612,University of Washington,Snapchat,1
+613,University of Washington,Twitter,2
+614,University of Washington,None,15
+615,University of North Carolina,Facebook,14
+616,University of North Carolina,Instagram,16
+617,University of North Carolina,Snapchat,2
+618,University of North Carolina,Twitter,5
+619,University of North Carolina,None,21
+620,Miami University (Ohio),Facebook,4
+621,Miami University (Ohio),Instagram,7
+623,Miami University (Ohio),Twitter,2
+624,Miami University (Ohio),None,5
+625,"University of California, Los Angeles",Facebook,1
+631,Wilfred Laurier University,Instagram,1
+639,University of California Riverside,None,1
+643,University of Iowa,Twitter,1
+646,University of California Irvine,Instagram,1
+649,University of California Irvine,None,1
+654,"University of California, Davis",None,2
+656,University of Waterloo,Instagram,1
+659,University of Waterloo,None,1
+664,Grand Valley State University,None,1
+669,Baylor University,None,1
+670,Southern Methodist University,Facebook,3
+671,Southern Methodist University,Instagram,3
+672,Southern Methodist University,Snapchat,1
+674,Southern Methodist University,None,7
+675,Blinn College,Facebook,1
+680,Texas A&M University,Facebook,7
+681,Texas A&M University,Instagram,11
+682,Texas A&M University,Snapchat,4
+683,Texas A&M University,Twitter,3
+684,Texas A&M University,None,10
+689,Wellesley College,None,1
+691,Central Washington University,Instagram,1
+695,Stellenbosch University,Facebook,1
+699,Stellenbosch University,None,1
+704,Universidad Nacional de Costa Rica,None,1
+706,Kennesaw State University,Instagram,1
+711,Newcastle University,Instagram,1
+715,University of West Georgia ,Facebook,1
+721,Azusa Pacific University,Instagram,1
+725,University of Connecticut,Facebook,1
+731,Boston University,Instagram,1
+738,Colorado State University,Twitter,1
+741,Clemson University,Instagram,1
+746,University of Rochester,Instagram,1
+754,James Madison University,None,1
+759,Stephen F. Austin State University,None,1
+764,Loyola University Maryland,None,1
+765,Michigan Technological University,Facebook,1
+771,Texas State University,Instagram,1
+776,University of Tennessee at Chattanooga,Instagram,1
+779,University of Tennessee at Chattanooga,None,2
+783,Seton Hall University,Twitter,1
+784,Seton Hall University,None,1
+789,Roger Williams University,None,1
+794,Elon University,None,1
+798,Emily Carr University of Art and Design,Twitter,1
+801,United States Military Academy,Instagram,1
+806,Indiana University of Pennsylvania,Instagram,1
+809,Indiana University of Pennsylvania,None,1
+810,University of Tampa,Facebook,1
+816,Essex Technical High School,Instagram,1
+821,University of North Carolina at Greensboro,Instagram,1
+824,University of North Carolina at Greensboro,None,1
+826,Pinnacle High School,Instagram,1
+834,Baltimore City College,None,1
+839,New York University,None,1
+841,Indiana University-Purdue University Indianapolis,Instagram,1
+846,Loyola Marymount University,Instagram,1
+849,Loyola Marymount University,None,1
+854,University of Dayton,None,1
+855,UMass Amherst,Facebook,1
+856,UMass Amherst,Instagram,1
+861,Brock University,Instagram,1
+868,Kutztown University,Twitter,1
+871,University of Mississippi,Instagram,1
+879,University of Mount Union,None,1
+883,Duke University,Twitter,1
+884,Duke University,None,1
+888,Shippensburg University,Twitter,1
