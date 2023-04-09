@@ -1,0 +1,561 @@
+,SegmentDescription,Answer,Count,Percentage
+890,"guys, 5'5"" girls) Tall",Facebook,54,0.184
+891,"guys, 5'5"" girls) Tall",Instagram,96,0.327
+892,"guys, 5'5"" girls) Tall",Snapchat,7,0.024
+893,"guys, 5'5"" girls) Tall",Twitter,17,0.058
+894,"guys, 5'5"" girls) Tall",None,120,0.408
+895,"guys, 5'5"" girls) Medium (± 3 inches)",Facebook,95,0.153
+896,"guys, 5'5"" girls) Medium (± 3 inches)",Instagram,174,0.28
+897,"guys, 5'5"" girls) Medium (± 3 inches)",Snapchat,17,0.027
+898,"guys, 5'5"" girls) Medium (± 3 inches)",Twitter,52,0.084
+899,"guys, 5'5"" girls) Medium (± 3 inches)",None,283,0.456
+900,"guys, 5'5"" girls) Short",Facebook,40,0.18
+901,"guys, 5'5"" girls) Short",Instagram,76,0.342
+902,"guys, 5'5"" girls) Short",Snapchat,9,0.041
+903,"guys, 5'5"" girls) Short",Twitter,21,0.095
+904,"guys, 5'5"" girls) Short",None,76,0.342
+905,or private school? Private,Facebook,61,0.169
+906,or private school? Private,Instagram,105,0.29
+907,or private school? Private,Snapchat,8,0.022
+908,or private school? Private,Twitter,20,0.055
+909,or private school? Private,None,168,0.464
+910,"games a lot? Yes, console mostly",Facebook,20,0.135
+911,"games a lot? Yes, console mostly",Instagram,37,0.25
+912,"games a lot? Yes, console mostly",Snapchat,8,0.054
+913,"games a lot? Yes, console mostly",Twitter,22,0.149
+914,"games a lot? Yes, console mostly",None,61,0.412
+915,your parents make? Upper class (> $240K),Facebook,70,0.23
+916,your parents make? Upper class (> $240K),Instagram,83,0.273
+917,your parents make? Upper class (> $240K),Snapchat,8,0.026
+918,your parents make? Upper class (> $240K),Twitter,13,0.043
+919,your parents make? Upper class (> $240K),None,130,0.428
+920,your parents make? Upper-middle class (~$160K,Facebook,71,0.157
+921,your parents make? Upper-middle class (~$160K,Instagram,149,0.33
+922,your parents make? Upper-middle class (~$160K,Snapchat,11,0.024
+923,your parents make? Upper-middle class (~$160K,Twitter,42,0.093
+924,your parents make? Upper-middle class (~$160K,None,178,0.395
+925,your parents make? Middle / lower-middle class (~$90K),Facebook,41,0.121
+926,your parents make? Middle / lower-middle class (~$90K),Instagram,111,0.326
+927,your parents make? Middle / lower-middle class (~$90K),Snapchat,12,0.035
+928,your parents make? Middle / lower-middle class (~$90K),Twitter,32,0.094
+929,your parents make? Middle / lower-middle class (~$90K),None,144,0.424
+930,your parents make? Poor (< ~$50K) 😁,Facebook,15,0.112
+931,your parents make? Poor (< ~$50K) 😁,Instagram,45,0.336
+932,your parents make? Poor (< ~$50K) 😁,Snapchat,7,0.052
+933,your parents make? Poor (< ~$50K) 😁,Twitter,10,0.075
+934,your parents make? Poor (< ~$50K) 😁,None,57,0.425
+935,What's your major? ME/EE/other engineer,Facebook,40,0.183
+936,What's your major? ME/EE/other engineer,Instagram,47,0.215
+937,What's your major? ME/EE/other engineer,Snapchat,8,0.037
+938,What's your major? ME/EE/other engineer,Twitter,14,0.064
+939,What's your major? ME/EE/other engineer,None,110,0.502
+940,or private school? No school,Facebook,4,0.125
+941,or private school? No school,Instagram,10,0.313
+942,or private school? No school,Snapchat,1,0.031
+943,or private school? No school,Twitter,1,0.031
+944,or private school? No school,None,16,0.5
+945,or private school? Public,Facebook,117,0.153
+946,or private school? Public,Instagram,250,0.326
+947,or private school? Public,Snapchat,27,0.035
+948,or private school? Public,Twitter,69,0.09
+949,or private school? Public,None,304,0.396
+950,you vote for? Donald Trump,Facebook,87,0.175
+951,you vote for? Donald Trump,Instagram,159,0.321
+952,you vote for? Donald Trump,Snapchat,19,0.038
+953,you vote for? Donald Trump,Twitter,50,0.101
+954,you vote for? Donald Trump,None,181,0.365
+955,you vote for? Hillary Clinton,Facebook,197,0.236
+956,you vote for? Hillary Clinton,Instagram,285,0.342
+957,you vote for? Hillary Clinton,Snapchat,22,0.026
+958,you vote for? Hillary Clinton,Twitter,38,0.046
+959,you vote for? Hillary Clinton,None,291,0.349
+960,What's your major? Business/Econ/Finance,Facebook,39,0.245
+961,What's your major? Business/Econ/Finance,Instagram,35,0.22
+962,What's your major? Business/Econ/Finance,Snapchat,10,0.063
+963,What's your major? Business/Econ/Finance,Twitter,11,0.069
+964,What's your major? Business/Econ/Finance,None,64,0.403
+965,What's your major? Pre-med,Facebook,39,0.245
+966,What's your major? Pre-med,Instagram,58,0.365
+967,What's your major? Pre-med,Snapchat,6,0.038
+968,What's your major? Pre-med,Twitter,5,0.031
+969,What's your major? Pre-med,None,51,0.321
+970,closely identify as? Asian,Facebook,51,0.266
+971,closely identify as? Asian,Instagram,61,0.318
+972,closely identify as? Asian,Snapchat,7,0.036
+973,closely identify as? Asian,Twitter,4,0.021
+974,closely identify as? Asian,None,69,0.359
+975,Are you? None/Other,Facebook,172,0.229
+976,Are you? None/Other,Instagram,231,0.308
+977,Are you? None/Other,Snapchat,21,0.028
+978,Are you? None/Other,Twitter,35,0.047
+979,Are you? None/Other,None,292,0.389
+980,Are you? Jewish,Facebook,68,0.291
+981,Are you? Jewish,Instagram,68,0.291
+982,Are you? Jewish,Snapchat,9,0.038
+983,Are you? Jewish,Twitter,6,0.026
+984,Are you? Jewish,None,83,0.355
+985,Are you a? SVB team member,Facebook,0,0.0
+986,Are you a? SVB team member,Instagram,0,0.0
+987,Are you a? SVB team member,Snapchat,0,0.0
+988,Are you a? SVB team member,Twitter,0,0.0
+989,Are you a? SVB team member,None,0,0.0
+990,Are you a? Student Trekker,Facebook,1,1.0
+991,Are you a? Student Trekker,Instagram,0,0.0
+992,Are you a? Student Trekker,Snapchat,0,0.0
+993,Are you a? Student Trekker,Twitter,0,0.0
+994,Are you a? Student Trekker,None,0,0.0
+995,you a feminist? No,Facebook,45,0.157
+996,you a feminist? No,Instagram,58,0.203
+997,you a feminist? No,Snapchat,11,0.038
+998,you a feminist? No,Twitter,22,0.077
+999,you a feminist? No,None,150,0.524
+1000,you a feminist? Yes,Facebook,34,0.167
+1001,you a feminist? Yes,Instagram,65,0.319
+1002,you a feminist? Yes,Snapchat,6,0.029
+1003,you a feminist? Yes,Twitter,13,0.064
+1004,you a feminist? Yes,None,86,0.422
+1005,Are you single? No,Facebook,53,0.17
+1006,Are you single? No,Instagram,105,0.337
+1007,Are you single? No,Snapchat,8,0.026
+1008,Are you single? No,Twitter,22,0.071
+1009,Are you single? No,None,124,0.397
+1010,Are you single? Yes,Facebook,128,0.164
+1011,Are you single? Yes,Instagram,245,0.314
+1012,Are you single? Yes,Snapchat,25,0.032
+1013,Are you single? Yes,Twitter,57,0.073
+1014,Are you single? Yes,None,325,0.417
+1015,student loan debt? No,Facebook,326,0.213
+1016,student loan debt? No,Instagram,504,0.33
+1017,student loan debt? No,Snapchat,47,0.031
+1018,student loan debt? No,Twitter,99,0.065
+1019,student loan debt? No,None,552,0.361
+1020,student loan debt? Yes,Facebook,148,0.193
+1021,student loan debt? Yes,Instagram,258,0.337
+1022,student loan debt? Yes,Snapchat,21,0.027
+1023,student loan debt? Yes,Twitter,60,0.078
+1024,student loan debt? Yes,None,279,0.364
+1025,you a virgin? No,Facebook,362,0.213
+1026,you a virgin? No,Instagram,579,0.341
+1027,you a virgin? No,Snapchat,51,0.03
+1028,you a virgin? No,Twitter,108,0.064
+1029,you a virgin? No,None,596,0.351
+1030,you a virgin? Yes,Facebook,104,0.179
+1031,you a virgin? Yes,Instagram,181,0.311
+1032,you a virgin? Yes,Snapchat,18,0.031
+1033,you a virgin? Yes,Twitter,47,0.081
+1034,you a virgin? Yes,None,232,0.399
+1035,you vote for? Didn't vote,Facebook,58,0.199
+1036,you vote for? Didn't vote,Instagram,97,0.333
+1037,you vote for? Didn't vote,Snapchat,9,0.031
+1038,you vote for? Didn't vote,Twitter,20,0.069
+1039,you vote for? Didn't vote,None,107,0.368
+1040,you vote for? Writing in Bernie,Facebook,28,0.2
+1041,you vote for? Writing in Bernie,Instagram,53,0.379
+1042,you vote for? Writing in Bernie,Snapchat,3,0.021
+1043,you vote for? Writing in Bernie,Twitter,8,0.057
+1044,you vote for? Writing in Bernie,None,48,0.343
+1045,you vote for? Other,Facebook,18,0.3
+1046,you vote for? Other,Instagram,19,0.317
+1047,you vote for? Other,Snapchat,4,0.067
+1048,you vote for? Other,Twitter,3,0.05
+1049,you vote for? Other,None,16,0.267
+1050,you vote for? Gary Johnson,Facebook,62,0.242
+1051,you vote for? Gary Johnson,Instagram,60,0.234
+1052,you vote for? Gary Johnson,Snapchat,5,0.02
+1053,you vote for? Gary Johnson,Twitter,16,0.063
+1054,you vote for? Gary Johnson,None,113,0.441
+1055,Sexual orientation? Confused,Facebook,13,0.277
+1056,Sexual orientation? Confused,Instagram,18,0.383
+1057,Sexual orientation? Confused,Snapchat,1,0.021
+1058,Sexual orientation? Confused,Twitter,2,0.043
+1059,Sexual orientation? Confused,None,13,0.277
+1060,Sexual orientation? Bi,Facebook,17,0.205
+1061,Sexual orientation? Bi,Instagram,35,0.422
+1062,Sexual orientation? Bi,Snapchat,2,0.024
+1063,Sexual orientation? Bi,Twitter,7,0.084
+1064,Sexual orientation? Bi,None,22,0.265
+1065,Sexual orientation? Gay,Facebook,5,0.227
+1066,Sexual orientation? Gay,Instagram,4,0.182
+1067,Sexual orientation? Gay,Snapchat,1,0.045
+1068,Sexual orientation? Gay,Twitter,2,0.091
+1069,Sexual orientation? Gay,None,10,0.455
+1070,in Greek life? No but I wanna be...,Facebook,53,0.22
+1071,in Greek life? No but I wanna be...,Instagram,78,0.324
+1072,in Greek life? No but I wanna be...,Snapchat,12,0.05
+1073,in Greek life? No but I wanna be...,Twitter,19,0.079
+1074,in Greek life? No but I wanna be...,None,79,0.328
+1075,your zodiac sign? Capricorn (Dec 22 - Jan 19),Facebook,5,0.057
+1076,your zodiac sign? Capricorn (Dec 22 - Jan 19),Instagram,33,0.375
+1077,your zodiac sign? Capricorn (Dec 22 - Jan 19),Snapchat,2,0.023
+1078,your zodiac sign? Capricorn (Dec 22 - Jan 19),Twitter,3,0.034
+1079,your zodiac sign? Capricorn (Dec 22 - Jan 19),None,45,0.511
+1080,your zodiac sign? Sagittarius (Nov 22 - Dec 21),Facebook,11,0.131
+1081,your zodiac sign? Sagittarius (Nov 22 - Dec 21),Instagram,26,0.31
+1082,your zodiac sign? Sagittarius (Nov 22 - Dec 21),Snapchat,2,0.024
+1083,your zodiac sign? Sagittarius (Nov 22 - Dec 21),Twitter,11,0.131
+1084,your zodiac sign? Sagittarius (Nov 22 - Dec 21),None,34,0.405
+1085,your zodiac sign? Scorpio (Oct 23 - Nov 21),Facebook,14,0.132
+1086,your zodiac sign? Scorpio (Oct 23 - Nov 21),Instagram,29,0.274
+1087,your zodiac sign? Scorpio (Oct 23 - Nov 21),Snapchat,4,0.038
+1088,your zodiac sign? Scorpio (Oct 23 - Nov 21),Twitter,10,0.094
+1089,your zodiac sign? Scorpio (Oct 23 - Nov 21),None,49,0.462
+1090,your zodiac sign? Libra (Sep 23 - Oct 22),Facebook,14,0.167
+1091,your zodiac sign? Libra (Sep 23 - Oct 22),Instagram,30,0.357
+1092,your zodiac sign? Libra (Sep 23 - Oct 22),Snapchat,1,0.012
+1093,your zodiac sign? Libra (Sep 23 - Oct 22),Twitter,6,0.071
+1094,your zodiac sign? Libra (Sep 23 - Oct 22),None,33,0.393
+1095,your zodiac sign? Virgo (Aug 23 - Sep 22),Facebook,18,0.135
+1096,your zodiac sign? Virgo (Aug 23 - Sep 22),Instagram,40,0.301
+1097,your zodiac sign? Virgo (Aug 23 - Sep 22),Snapchat,8,0.06
+1098,your zodiac sign? Virgo (Aug 23 - Sep 22),Twitter,8,0.06
+1099,your zodiac sign? Virgo (Aug 23 - Sep 22),None,59,0.444
+1100,your zodiac sign? Leo (Jul 23 - Aug 22),Facebook,16,0.188
+1101,your zodiac sign? Leo (Jul 23 - Aug 22),Instagram,26,0.306
+1102,your zodiac sign? Leo (Jul 23 - Aug 22),Snapchat,2,0.024
+1103,your zodiac sign? Leo (Jul 23 - Aug 22),Twitter,6,0.071
+1104,your zodiac sign? Leo (Jul 23 - Aug 22),None,35,0.412
+1105,your zodiac sign? Cancer (Jun 21 - Jul 22),Facebook,13,0.127
+1106,your zodiac sign? Cancer (Jun 21 - Jul 22),Instagram,28,0.275
+1107,your zodiac sign? Cancer (Jun 21 - Jul 22),Snapchat,3,0.029
+1108,your zodiac sign? Cancer (Jun 21 - Jul 22),Twitter,12,0.118
+1109,your zodiac sign? Cancer (Jun 21 - Jul 22),None,46,0.451
+1110,your zodiac sign? Gemini (May 21 - Jun 20),Facebook,12,0.133
+1111,your zodiac sign? Gemini (May 21 - Jun 20),Instagram,36,0.4
+1112,your zodiac sign? Gemini (May 21 - Jun 20),Snapchat,2,0.022
+1113,your zodiac sign? Gemini (May 21 - Jun 20),Twitter,6,0.067
+1114,your zodiac sign? Gemini (May 21 - Jun 20),None,34,0.378
+1115,your zodiac sign? Taurus (Apr 20 - May 20),Facebook,23,0.235
+1116,your zodiac sign? Taurus (Apr 20 - May 20),Instagram,27,0.276
+1117,your zodiac sign? Taurus (Apr 20 - May 20),Snapchat,2,0.02
+1118,your zodiac sign? Taurus (Apr 20 - May 20),Twitter,7,0.071
+1119,your zodiac sign? Taurus (Apr 20 - May 20),None,39,0.398
+1120,your zodiac sign? Aries (Mar 21 - Apr 19),Facebook,19,0.184
+1121,your zodiac sign? Aries (Mar 21 - Apr 19),Instagram,32,0.311
+1122,your zodiac sign? Aries (Mar 21 - Apr 19),Snapchat,7,0.068
+1123,your zodiac sign? Aries (Mar 21 - Apr 19),Twitter,9,0.087
+1124,your zodiac sign? Aries (Mar 21 - Apr 19),None,36,0.35
+1125,your zodiac sign? Pisces (Feb 19 - Mar 20),Facebook,12,0.14
+1126,your zodiac sign? Pisces (Feb 19 - Mar 20),Instagram,27,0.314
+1127,your zodiac sign? Pisces (Feb 19 - Mar 20),Snapchat,1,0.012
+1128,your zodiac sign? Pisces (Feb 19 - Mar 20),Twitter,5,0.058
+1129,your zodiac sign? Pisces (Feb 19 - Mar 20),None,41,0.477
+1130,your zodiac sign? Aquarius (Jan 20-Feb 18),Facebook,25,0.243
+1131,your zodiac sign? Aquarius (Jan 20-Feb 18),Instagram,26,0.252
+1132,your zodiac sign? Aquarius (Jan 20-Feb 18),Snapchat,2,0.019
+1133,your zodiac sign? Aquarius (Jan 20-Feb 18),Twitter,6,0.058
+1134,your zodiac sign? Aquarius (Jan 20-Feb 18),None,44,0.427
+1135,grow up speaking? English,Facebook,167,0.16
+1136,grow up speaking? English,Instagram,321,0.307
+1137,grow up speaking? English,Snapchat,38,0.036
+1138,grow up speaking? English,Twitter,76,0.073
+1139,grow up speaking? English,None,443,0.424
+1140,"have a job? Nope, and not looking for one",Facebook,198,0.214
+1141,"have a job? Nope, and not looking for one",Instagram,299,0.323
+1142,"have a job? Nope, and not looking for one",Snapchat,37,0.04
+1143,"have a job? Nope, and not looking for one",Twitter,68,0.073
+1144,"have a job? Nope, and not looking for one",None,325,0.351
+1145,What's your major? Comm / marketing,Facebook,37,0.308
+1146,What's your major? Comm / marketing,Instagram,40,0.333
+1147,What's your major? Comm / marketing,Snapchat,2,0.017
+1148,What's your major? Comm / marketing,Twitter,6,0.05
+1149,What's your major? Comm / marketing,None,35,0.292
+1150,are you pursuing? Undecided,Facebook,80,0.175
+1151,are you pursuing? Undecided,Instagram,150,0.329
+1152,are you pursuing? Undecided,Snapchat,15,0.033
+1153,are you pursuing? Undecided,Twitter,33,0.072
+1154,are you pursuing? Undecided,None,178,0.39
+1155,are you pursuing? Humanities,Facebook,180,0.227
+1156,are you pursuing? Humanities,Instagram,291,0.366
+1157,are you pursuing? Humanities,Snapchat,18,0.023
+1158,are you pursuing? Humanities,Twitter,47,0.059
+1159,are you pursuing? Humanities,None,258,0.325
+1160,do per month? About 1 hour,Facebook,45,0.238
+1161,do per month? About 1 hour,Instagram,58,0.307
+1162,do per month? About 1 hour,Snapchat,6,0.032
+1163,do per month? About 1 hour,Twitter,8,0.042
+1164,do per month? About 1 hour,None,72,0.381
+1165,do per month? Less than an hour,Facebook,43,0.204
+1166,do per month? Less than an hour,Instagram,74,0.351
+1167,do per month? Less than an hour,Snapchat,4,0.019
+1168,do per month? Less than an hour,Twitter,20,0.095
+1169,do per month? Less than an hour,None,70,0.332
+1170,closely identify as? Other,Facebook,20,0.217
+1171,closely identify as? Other,Instagram,34,0.37
+1172,closely identify as? Other,Snapchat,3,0.033
+1173,closely identify as? Other,Twitter,1,0.011
+1174,closely identify as? Other,None,34,0.37
+1175,closely identify as? Native American,Facebook,2,0.154
+1176,closely identify as? Native American,Instagram,6,0.462
+1177,closely identify as? Native American,Snapchat,0,0.0
+1178,closely identify as? Native American,Twitter,2,0.154
+1179,closely identify as? Native American,None,3,0.231
+1180,What's your leaning? Liberal 🔷,Facebook,186,0.223
+1181,What's your leaning? Liberal 🔷,Instagram,291,0.349
+1182,What's your leaning? Liberal 🔷,Snapchat,19,0.023
+1183,What's your leaning? Liberal 🔷,Twitter,54,0.065
+1184,What's your leaning? Liberal 🔷,None,284,0.341
+1185,What's your leaning? Conservative 🐘,Facebook,144,0.196
+1186,What's your leaning? Conservative 🐘,Instagram,241,0.327
+1187,What's your leaning? Conservative 🐘,Snapchat,27,0.037
+1188,What's your leaning? Conservative 🐘,Twitter,60,0.082
+1189,What's your leaning? Conservative 🐘,None,264,0.359
+1190,I'm in? Other,Facebook,3,0.158
+1191,I'm in? Other,Instagram,6,0.316
+1192,I'm in? Other,Snapchat,2,0.105
+1193,I'm in? Other,Twitter,0,0.0
+1194,I'm in? Other,None,8,0.421
+1195,I'm in? Grad School,Facebook,7,0.171
+1196,I'm in? Grad School,Instagram,13,0.317
+1197,I'm in? Grad School,Snapchat,4,0.098
+1198,I'm in? Grad School,Twitter,3,0.073
+1199,I'm in? Grad School,None,14,0.341
+1200,"have a job? Yes, full-time",Facebook,23,0.187
+1201,"have a job? Yes, full-time",Instagram,37,0.301
+1202,"have a job? Yes, full-time",Snapchat,6,0.049
+1203,"have a job? Yes, full-time",Twitter,6,0.049
+1204,"have a job? Yes, full-time",None,51,0.415
+1205,What's your GPA? 3.0 to 4.0,Facebook,347,0.222
+1206,What's your GPA? 3.0 to 4.0,Instagram,502,0.321
+1207,What's your GPA? 3.0 to 4.0,Snapchat,47,0.03
+1208,What's your GPA? 3.0 to 4.0,Twitter,99,0.063
+1209,What's your GPA? 3.0 to 4.0,None,571,0.365
+1210,What's your GPA? Below 1.0 😁,Facebook,9,0.188
+1211,What's your GPA? Below 1.0 😁,Instagram,15,0.313
+1212,What's your GPA? Below 1.0 😁,Snapchat,1,0.021
+1213,What's your GPA? Below 1.0 😁,Twitter,4,0.083
+1214,What's your GPA? Below 1.0 😁,None,19,0.396
+1215,closely identify as? Black,Facebook,13,0.138
+1216,closely identify as? Black,Instagram,41,0.436
+1217,closely identify as? Black,Snapchat,3,0.032
+1218,closely identify as? Black,Twitter,8,0.085
+1219,closely identify as? Black,None,29,0.309
+1220,Mac or PC? Other 🐧,Facebook,8,0.154
+1221,Mac or PC? Other 🐧,Instagram,11,0.212
+1222,Mac or PC? Other 🐧,Snapchat,3,0.058
+1223,Mac or PC? Other 🐧,Twitter,4,0.077
+1224,Mac or PC? Other 🐧,None,26,0.5
+1225,in Greek life? No!,Facebook,98,0.166
+1226,in Greek life? No!,Instagram,164,0.277
+1227,in Greek life? No!,Snapchat,16,0.027
+1228,in Greek life? No!,Twitter,44,0.074
+1229,in Greek life? No!,None,270,0.456
+1230,Mac or PC? Mac 🖥,Facebook,313,0.215
+1231,Mac or PC? Mac 🖥,Instagram,546,0.375
+1232,Mac or PC? Mac 🖥,Snapchat,38,0.026
+1233,Mac or PC? Mac 🖥,Twitter,93,0.064
+1234,Mac or PC? Mac 🖥,None,467,0.321
+1235,in Greek life? Yes but regretting it,Facebook,20,0.222
+1236,in Greek life? Yes but regretting it,Instagram,33,0.367
+1237,in Greek life? Yes but regretting it,Snapchat,1,0.011
+1238,in Greek life? Yes but regretting it,Twitter,7,0.078
+1239,in Greek life? Yes but regretting it,None,29,0.322
+1240,in Greek life? Yes!,Facebook,267,0.247
+1241,in Greek life? Yes!,Instagram,368,0.34
+1242,in Greek life? Yes!,Snapchat,33,0.03
+1243,in Greek life? Yes!,Twitter,58,0.054
+1244,in Greek life? Yes!,None,356,0.329
+1245,you vote for? Jill Stein,Facebook,5,0.192
+1246,you vote for? Jill Stein,Instagram,5,0.192
+1247,you vote for? Jill Stein,Snapchat,1,0.038
+1248,you vote for? Jill Stein,Twitter,4,0.154
+1249,you vote for? Jill Stein,None,11,0.423
+1250,What's your GPA? 2.0 to 3.0,Facebook,76,0.176
+1251,What's your GPA? 2.0 to 3.0,Instagram,157,0.363
+1252,What's your GPA? 2.0 to 3.0,Snapchat,10,0.023
+1253,What's your GPA? 2.0 to 3.0,Twitter,34,0.079
+1254,What's your GPA? 2.0 to 3.0,None,156,0.36
+1255,What's your GPA? 1.0 to 2.0,Facebook,1,0.03
+1256,What's your GPA? 1.0 to 2.0,Instagram,18,0.545
+1257,What's your GPA? 1.0 to 2.0,Snapchat,2,0.061
+1258,What's your GPA? 1.0 to 2.0,Twitter,4,0.121
+1259,What's your GPA? 1.0 to 2.0,None,8,0.242
+1260,games a lot? No,Facebook,14,0.147
+1261,games a lot? No,Instagram,27,0.284
+1262,games a lot? No,Snapchat,3,0.032
+1263,games a lot? No,Twitter,6,0.063
+1264,games a lot? No,None,45,0.474
+1265,"games a lot? Yes, mobile mostly",Facebook,1,0.077
+1266,"games a lot? Yes, mobile mostly",Instagram,3,0.231
+1267,"games a lot? Yes, mobile mostly",Snapchat,0,0.0
+1268,"games a lot? Yes, mobile mostly",Twitter,0,0.0
+1269,"games a lot? Yes, mobile mostly",None,9,0.692
+1270,"games a lot? Yes, PC mostly",Facebook,7,0.085
+1271,"games a lot? Yes, PC mostly",Instagram,18,0.22
+1272,"games a lot? Yes, PC mostly",Snapchat,1,0.012
+1273,"games a lot? Yes, PC mostly",Twitter,4,0.049
+1274,"games a lot? Yes, PC mostly",None,52,0.634
+1275,What's your major? Languages,Facebook,9,0.29
+1276,What's your major? Languages,Instagram,12,0.387
+1277,What's your major? Languages,Snapchat,1,0.032
+1278,What's your major? Languages,Twitter,1,0.032
+1279,What's your major? Languages,None,8,0.258
+1280,What's your major? Visual/performing arts,Facebook,3,0.136
+1281,What's your major? Visual/performing arts,Instagram,11,0.5
+1282,What's your major? Visual/performing arts,Snapchat,0,0.0
+1283,What's your major? Visual/performing arts,Twitter,1,0.045
+1284,What's your major? Visual/performing arts,None,7,0.318
+1285,What's your major? History,Facebook,8,0.205
+1286,What's your major? History,Instagram,12,0.308
+1287,What's your major? History,Snapchat,2,0.051
+1288,What's your major? History,Twitter,0,0.0
+1289,What's your major? History,None,17,0.436
+1290,"have a job? No, but I'm searching for one",Facebook,98,0.205
+1291,"have a job? No, but I'm searching for one",Instagram,168,0.351
+1292,"have a job? No, but I'm searching for one",Snapchat,13,0.027
+1293,"have a job? No, but I'm searching for one",Twitter,25,0.052
+1294,"have a job? No, but I'm searching for one",None,174,0.364
+1295,Mac or PC? PC 💻,Facebook,145,0.193
+1296,Mac or PC? PC 💻,Instagram,205,0.273
+1297,Mac or PC? PC 💻,Snapchat,25,0.033
+1298,Mac or PC? PC 💻,Twitter,54,0.072
+1299,Mac or PC? PC 💻,None,322,0.429
+1300,What's your major? Other,Facebook,31,0.242
+1301,What's your major? Other,Instagram,32,0.25
+1302,What's your major? Other,Snapchat,3,0.023
+1303,What's your major? Other,Twitter,7,0.055
+1304,What's your major? Other,None,55,0.43
+1305,grow up speaking? Some other language (comment),Facebook,18,0.175
+1306,grow up speaking? Some other language (comment),Instagram,32,0.311
+1307,grow up speaking? Some other language (comment),Snapchat,3,0.029
+1308,grow up speaking? Some other language (comment),Twitter,8,0.078
+1309,grow up speaking? Some other language (comment),None,42,0.408
+1310,grow up speaking? Both,Facebook,5,0.116
+1311,grow up speaking? Both,Instagram,16,0.372
+1312,grow up speaking? Both,Snapchat,1,0.023
+1313,grow up speaking? Both,Twitter,6,0.14
+1314,grow up speaking? Both,None,15,0.349
+1315,grow up speaking? Spanish,Facebook,4,0.174
+1316,grow up speaking? Spanish,Instagram,5,0.217
+1317,grow up speaking? Spanish,Snapchat,3,0.13
+1318,grow up speaking? Spanish,Twitter,5,0.217
+1319,grow up speaking? Spanish,None,6,0.261
+1320,clubs / organizations? More than one major org,Facebook,14,0.304
+1321,clubs / organizations? More than one major org,Instagram,9,0.196
+1322,clubs / organizations? More than one major org,Snapchat,2,0.043
+1323,clubs / organizations? More than one major org,Twitter,2,0.043
+1324,clubs / organizations? More than one major org,None,19,0.413
+1325,clubs / organizations? A major one,Facebook,49,0.257
+1326,clubs / organizations? A major one,Instagram,65,0.34
+1327,clubs / organizations? A major one,Snapchat,7,0.037
+1328,clubs / organizations? A major one,Twitter,10,0.052
+1329,clubs / organizations? A major one,None,60,0.314
+1330,clubs / organizations? A minor one,Facebook,66,0.258
+1331,clubs / organizations? A minor one,Instagram,81,0.316
+1332,clubs / organizations? A minor one,Snapchat,6,0.023
+1333,clubs / organizations? A minor one,Twitter,13,0.051
+1334,clubs / organizations? A minor one,None,90,0.352
+1335,clubs / organizations? No,Facebook,320,0.207
+1336,clubs / organizations? No,Instagram,499,0.323
+1337,clubs / organizations? No,Snapchat,45,0.029
+1338,clubs / organizations? No,Twitter,105,0.068
+1339,clubs / organizations? No,None,574,0.372
+1340,do per month? More than 10 hours 😇,Facebook,12,0.179
+1341,do per month? More than 10 hours 😇,Instagram,24,0.358
+1342,do per month? More than 10 hours 😇,Snapchat,5,0.075
+1343,do per month? More than 10 hours 😇,Twitter,1,0.015
+1344,do per month? More than 10 hours 😇,None,25,0.373
+1345,do per month? 1 to 10 hours,Facebook,92,0.253
+1346,do per month? 1 to 10 hours,Instagram,123,0.339
+1347,do per month? 1 to 10 hours,Snapchat,9,0.025
+1348,do per month? 1 to 10 hours,Twitter,27,0.074
+1349,do per month? 1 to 10 hours,None,112,0.309
+1350,closely identify as? Hispanic,Facebook,20,0.177
+1351,closely identify as? Hispanic,Instagram,38,0.336
+1352,closely identify as? Hispanic,Snapchat,3,0.027
+1353,closely identify as? Hispanic,Twitter,11,0.097
+1354,closely identify as? Hispanic,None,41,0.363
+1355,are you pursuing? Technical / engineering,Facebook,160,0.224
+1356,are you pursuing? Technical / engineering,Instagram,183,0.256
+1357,are you pursuing? Technical / engineering,Snapchat,27,0.038
+1358,are you pursuing? Technical / engineering,Twitter,40,0.056
+1359,are you pursuing? Technical / engineering,None,304,0.426
+1360,What's your major? Comp sci,Facebook,18,0.261
+1361,What's your major? Comp sci,Instagram,19,0.275
+1362,What's your major? Comp sci,Snapchat,1,0.014
+1363,What's your major? Comp sci,Twitter,3,0.043
+1364,What's your major? Comp sci,None,28,0.406
+1365,I'm in? Post-grad,Facebook,15,0.158
+1366,I'm in? Post-grad,Instagram,35,0.368
+1367,I'm in? Post-grad,Snapchat,1,0.011
+1368,I'm in? Post-grad,Twitter,1,0.011
+1369,I'm in? Post-grad,None,43,0.453
+1370,"have a job? Yes, part-time",Facebook,147,0.202
+1371,"have a job? Yes, part-time",Instagram,239,0.328
+1372,"have a job? Yes, part-time",Snapchat,12,0.016
+1373,"have a job? Yes, part-time",Twitter,56,0.077
+1374,"have a job? Yes, part-time",None,274,0.376
+1375,What's your major? Other,Facebook,88,0.209
+1376,What's your major? Other,Instagram,156,0.37
+1377,What's your major? Other,Snapchat,9,0.021
+1378,What's your major? Other,Twitter,26,0.062
+1379,What's your major? Other,None,143,0.339
+1380,What's your major? Political science / philosophy,Facebook,38,0.232
+1381,What's your major? Political science / philosophy,Instagram,58,0.354
+1382,What's your major? Political science / philosophy,Snapchat,4,0.024
+1383,What's your major? Political science / philosophy,Twitter,8,0.049
+1384,What's your major? Political science / philosophy,None,56,0.341
+1385,I'm in? College,Facebook,499,0.215
+1386,I'm in? College,Instagram,781,0.336
+1387,I'm in? College,Snapchat,74,0.032
+1388,I'm in? College,Twitter,151,0.065
+1389,I'm in? College,None,820,0.353
+1390,I'm in? High School,Facebook,29,0.105
+1391,I'm in? High School,Instagram,96,0.347
+1392,I'm in? High School,Snapchat,14,0.051
+1393,I'm in? High School,Twitter,32,0.116
+1394,I'm in? High School,None,106,0.383
+1395,"do per month? Realistically, none",Facebook,231,0.194
+1396,"do per month? Realistically, none",Instagram,368,0.309
+1397,"do per month? Realistically, none",Snapchat,39,0.033
+1398,"do per month? Realistically, none",Twitter,78,0.065
+1399,"do per month? Realistically, none",None,476,0.399
+1400,What's your leaning? In-between,Facebook,132,0.196
+1401,What's your leaning? In-between,Instagram,213,0.317
+1402,What's your leaning? In-between,Snapchat,22,0.033
+1403,What's your leaning? In-between,Twitter,36,0.054
+1404,What's your leaning? In-between,None,269,0.4
+1405,Are you? Muslim,Facebook,3,0.143
+1406,Are you? Muslim,Instagram,5,0.238
+1407,Are you? Muslim,Snapchat,3,0.143
+1408,Are you? Muslim,Twitter,2,0.095
+1409,Are you? Muslim,None,8,0.381
+1410,Are you? Christian,Facebook,231,0.208
+1411,Are you? Christian,Instagram,387,0.348
+1412,Are you? Christian,Snapchat,29,0.026
+1413,Are you? Christian,Twitter,85,0.076
+1414,Are you? Christian,None,381,0.342
+1415,Graduation Year 2017,Facebook,61,0.274
+1416,Graduation Year 2017,Instagram,62,0.278
+1417,Graduation Year 2017,Snapchat,8,0.036
+1418,Graduation Year 2017,Twitter,5,0.022
+1419,Graduation Year 2017,None,87,0.39
+1420,Graduation Year 2018,Facebook,88,0.244
+1421,Graduation Year 2018,Instagram,114,0.317
+1422,Graduation Year 2018,Snapchat,12,0.033
+1423,Graduation Year 2018,Twitter,17,0.047
+1424,Graduation Year 2018,None,129,0.358
+1425,What's your GPA? Above 4.0 😏,Facebook,19,0.131
+1426,What's your GPA? Above 4.0 😏,Instagram,55,0.379
+1427,What's your GPA? Above 4.0 😏,Snapchat,5,0.034
+1428,What's your GPA? Above 4.0 😏,Twitter,10,0.069
+1429,What's your GPA? Above 4.0 😏,None,56,0.386
+1430,Graduation Year 2019,Facebook,221,0.262
+1431,Graduation Year 2019,Instagram,291,0.345
+1432,Graduation Year 2019,Snapchat,24,0.028
+1433,Graduation Year 2019,Twitter,46,0.055
+1434,Graduation Year 2019,None,262,0.31
+1435,Graduation Year 2020,Facebook,74,0.155
+1436,Graduation Year 2020,Instagram,150,0.314
+1437,Graduation Year 2020,Snapchat,15,0.031
+1438,Graduation Year 2020,Twitter,47,0.099
+1439,Graduation Year 2020,None,191,0.4
+1440,closely identify as? White,Facebook,352,0.224
+1441,closely identify as? White,Instagram,498,0.317
+1442,closely identify as? White,Snapchat,47,0.03
+1443,closely identify as? White,Twitter,102,0.065
+1444,closely identify as? White,None,573,0.365
+1445,Sexual orientation? Straight,Facebook,215,0.18
+1446,Sexual orientation? Straight,Instagram,354,0.297
+1447,Sexual orientation? Straight,Snapchat,44,0.037
+1448,Sexual orientation? Straight,Twitter,88,0.074
+1449,Sexual orientation? Straight,None,492,0.412
